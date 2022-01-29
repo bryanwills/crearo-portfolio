@@ -70,6 +70,7 @@ def media_lab_application():
     return render_template('mit-media-lab-application.html')
 
 
+@app.route('/writing')
 @app.route('/blog')
 def blog():
     return redirect("http://bhardwajrish.blogspot.com/", code=302)

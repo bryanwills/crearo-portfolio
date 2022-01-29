@@ -3,11 +3,14 @@
     "year": "To Read (Ordered)",
     "books": [
       {
-        "name": "Stories of Your Life and Others, Ted Chiang"
+        "name": "Androids: The Team that Built the Android OS, Chet Haase"
       },
       {
         "name": "Books by Nassim Nicholas Taleb",
         "review": "I've resisted reading his work for longer than I can remember. But now I really want to know why the world thinks so highly of his rather complicated and hard to read writing."
+      },
+      {
+        "name": "The Untethered Soul, Michael Alan Singer"
       },
       {
         "name": "Show Your Work!, Austin Kleon"
@@ -30,8 +33,26 @@
     ]
   },
   {
+    "year": "2022",
+    "books": [
+      {
+        "name": "The Unbearable Lightness of Being, Milan Kundera",
+        "review": "[upcoming]"
+      },
+      {
+        "name": "Whack: How you can be More Creative, Roger Oech",
+        "review": "[upcoming]"
+      }
+    ]
+  },
+  {
     "year": "2021",
     "books": [
+      {
+        "name": "Stories of Your Life and Others, Ted Chiang",
+        "review": "Short story science fiction at its best. I really enjoyed them. Specifically, Ted Chiang gave me the impression that he is a computer programmer; a logican who views the world in a way a programmer does, who also happens to be an author. This struck a chord with me. He covers topics in time travel, super intelligence, AI, search for meaning, consciousness, and love. I find myself spending a lot of time thinking on these subjects, and for that reason it almost felt as if this book was written for me specifically.",
+        "star": true
+      },
       {
         "name": "The Psychology of Money, Morgan Housel",
         "review": "An excellent introduction on *How to Money*. The ideas presented make so much sense to me; a logical thinker who tries to model the world with reason. There were however many chapters where I realised how this book was primarily targeted for the average American, and my Indian upbringing made several chapters trivial or just obvious. I wish this was taught as a part of our school curriculum, and I hope to keep coming back to the notes I made for this book.",
